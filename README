@@ -1,0 +1,13 @@
+there are
+
+A.cpp
+head.h
+head.cpp
+file.in
+fil.out
+makefile
+
+
+compile:make
+execute:./A
+
